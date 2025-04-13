@@ -48,4 +48,3 @@ This will:
 - Display final list
 
 ![Screenshot1](Снимок экрана 2025-04-10 в 01.03.42.png)
-![Screenshot2](screenshot_1.png)
