@@ -1,17 +1,6 @@
 # Employee Database
 
-## Overview
 A simple Python application that uses SQLite to manage employee data, demonstrating CRUD operations.
-
----
-
-##  Objectives
-
-- Create a SQLite database to store employee information.
-- Build an `Employee` class for data representation.
-- Build an `EmployeeDAO` class for interacting with the database.
-- Perform full CRUD operations.
-- Demonstrate the functionality via a test script.
 
 ---
 
