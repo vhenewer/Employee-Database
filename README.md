@@ -48,3 +48,4 @@ This will:
 - Display final list
 
 ![Alt Text](https://github.com/vhenewer/Employee-Database/blob/main/Снимок%20экрана%202025-04-10%20в%2001.03.42.png)
+![Alt Text](https://github.com/vhenewer/Employee-Database/blob/main/Снимок%20экрана%202025-04-10%20в%2014.24.28.png)
