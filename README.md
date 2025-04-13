@@ -48,3 +48,4 @@ This will:
 - Display final list
 
 ![Screenshot1](Снимок экрана 2025-04-10 в 01.03.42.png)
+https://github.com/vhenewer/Employee-Database/blob/main/Снимок%20экрана%202025-04-10%20в%2001.03.42.png
