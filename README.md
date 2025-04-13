@@ -46,3 +46,6 @@ This will:
 - Update employee's salary
 - Delete employee by ID
 - Display final list
+
+![Screenshot1](screenshot_1.png)
+![Screenshot1](screenshot_1.png)
